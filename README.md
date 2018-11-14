@@ -1,2 +1,2 @@
-# curso-web-caelum
-Meus arquivos do curso de Desenvolvimento Web da Caelum
+# Curso de Desenvolvimento Web da Caelum
+Meus arquivos do curso de Desenvolvimento Web da Caelum. Podem conter erros!
